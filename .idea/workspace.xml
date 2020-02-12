@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6135eaad-a12c-4fea-a7fa-d726471fe02a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XGPnIYLpu1ApDi9Q0q7NFLAYqb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/contatos/templates/contatos" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ws-django\projetos_luiz_otavio\projeto_agenda\contatos\templates\contatos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ws-django\projetos_luiz_otavio\projeto_agenda\templates\static" />
+      <recent name="C:\ws-django\projetos_luiz_otavio\projeto_agenda\templates" />
+      <recent name="C:\ws-django\projetos_luiz_otavio\projeto_agenda\contatos\templates\static" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6135eaad-a12c-4fea-a7fa-d726471fe02a" name="Default Changelist" comment="" />
+      <created>1580669623643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580669623643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2639" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580674100497">
+      <screen x="1920" y="3" width="1920" height="1040" />
+    </state>
+    <state x="2639" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.3.1920.1040@1920.3.1920.1040" timestamp="1580674100497" />
+    <state x="2012" y="95" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580674147268">
+      <screen x="1920" y="3" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="95" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.3.1920.1040@1920.3.1920.1040" timestamp="1580674147268" />
+  </component>
+</project>
